@@ -642,7 +642,7 @@ function DarkLib:Window()
 			Title.TextColor3 = Color3.fromRGB(195, 195, 195)
 			Title.TextSize = 14.000
 			Title.TextXAlignment = Enum.TextXAlignment.Left
-			Title.Text = text
+			Title.Text = "R2O"
 
 			DropToggle.Name = "DropToggle"
 			DropToggle.Parent = Dropdown
